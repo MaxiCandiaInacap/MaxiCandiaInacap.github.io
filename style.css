@@ -1,0 +1,44 @@
+
+body{
+    background: #534c79;
+    font-size: 100;
+    text-align: center;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+
+    color: #ffa2a2;
+    
+    
+    
+}
+
+p {
+
+    color: rgb(150, 218, 176);
+    text-shadow: 8px 9px 4px #350b42;
+}
+
+a {
+    color: rgb(231, 247, 173);
+
+}
+
+img{
+
+    border-radius: 66px 16px 79px 40px;
+    cursor: pointer;
+
+}
+
+.h1border{
+
+
+    border: 5px dotted #fa8d8d;
+    background: rgb(114,106,162);
+background: linear-gradient(90deg, rgba(114,106,162,1) 0%, rgba(56,45,120,1) 50%, rgba(33,15,136,1) 100%);
+}
+
