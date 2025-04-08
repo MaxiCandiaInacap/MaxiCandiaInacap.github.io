@@ -42,3 +42,15 @@ img{
 background: linear-gradient(90deg, rgba(114,106,162,1) 0%, rgba(56,45,120,1) 50%, rgba(33,15,136,1) 100%);
 }
 
+
+
+table, th, tr {
+
+
+
+    color: #ba8ac9;
+
+    border: 1px solid rgb(171, 166, 228);
+    border-collapse: collapse;
+
+}
